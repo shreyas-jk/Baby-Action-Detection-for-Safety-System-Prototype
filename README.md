@@ -4,7 +4,7 @@
 ## Table of Contents
 
 - [About](#about)
-- [Install](#installing)
+- [Install](#install)
 - [Run Predictions](#run-predictions)
 - [Demo](#demo)
 
