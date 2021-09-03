@@ -4,6 +4,7 @@
 ## Table of Contents
 
 - [About](#about)
+- [Technical Details](#technical-details)
 - [Install](#install)
 - [Run Predictions](#run-predictions)
 - [Demo](#demo)
@@ -13,6 +14,9 @@
 An attempt to harness the power of Deep Learning to come up with a solution that can let us detect various classes of activities an infant, toddler or a baby is performing in real-time. This POC can then be published as an end-to-end deployable cloud project.
 
 The model does not restrict predictions for babies only, it is applicable to all entities that appears in a human posture. So temporary, this needs to be handled at project level.
+
+## Data collection
+Data was collected from YouTube video clips. Human pose keypoints were extracted with the help of [MediaPipe](#https://mediapipe.dev/).
 
 # Install
 
