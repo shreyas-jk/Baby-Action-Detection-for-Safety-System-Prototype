@@ -33,3 +33,9 @@ python prediction.py
 ```
 
 # Demo
+
+![GIF](https://github.com/shreyas-jk/Baby-Action-Detection_Safety-System-Prototype/blob/main/demo/1.gif?raw=true)
+
+![GIF](https://github.com/shreyas-jk/Baby-Action-Detection_Safety-System-Prototype/blob/main/demo/2.gif?raw=true)
+
+![GIF](https://github.com/shreyas-jk/Baby-Action-Detection_Safety-System-Prototype/blob/main/demo/3.gif?raw=true)
