@@ -19,6 +19,11 @@ The model does not restrict predictions for babies only, it is applicable to all
 ## Data collection
 Data was collected from YouTube video clips. Human pose keypoints were extracted with the help of [MediaPipe](https://mediapipe.dev/).
 
+## Classes trained
+1. Baby Walking
+2. Baby Still (no movement, can be considered as sleeping)
+3. Baby Crawling
+
 # Install
 
 Create a new environment and use below command for installing all required packages
