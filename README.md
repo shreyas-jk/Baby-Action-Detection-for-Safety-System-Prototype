@@ -39,6 +39,8 @@ python prediction.py
 
 # Demo
 
+[Full Demo - Drive Link](https://drive.google.com/file/d/1UVHSB52D4vHVGYDwj5aVH-poR0Tgc7jX/view?usp=sharing)
+
 ![GIF](https://github.com/shreyas-jk/Baby-Action-Detection_Safety-System-Prototype/blob/main/demo/1.gif?raw=true)
 
 ![GIF](https://github.com/shreyas-jk/Baby-Action-Detection_Safety-System-Prototype/blob/main/demo/2.gif?raw=true)
