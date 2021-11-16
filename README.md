@@ -6,7 +6,7 @@
 - [About](#about)
 - [Install](#install)
 - [Run Predictions](#run-predictions)
-- [Demo](#demo)
+- [Demo](#results)
 
 # About 
 
@@ -42,7 +42,7 @@ pip install -r- requirements.txt
 python prediction.py 
 ```
 
-# Demo
+# Results
 
 [Full Demo - Drive Link](https://drive.google.com/file/d/1UVHSB52D4vHVGYDwj5aVH-poR0Tgc7jX/view?usp=sharing)
 
@@ -51,3 +51,7 @@ python prediction.py
 ![GIF](https://github.com/shreyas-jk/Baby-Action-Detection_Safety-System-Prototype/blob/main/demo/2.gif?raw=true)
 
 ![GIF](https://github.com/shreyas-jk/Baby-Action-Detection_Safety-System-Prototype/blob/main/demo/3.gif?raw=true)
+
+
+# YouTube Demo
+https://www.youtube.com/watch?v=ZIDhvSGXDmI
