@@ -1,5 +1,6 @@
 
 # Baby Action Detection
+![Dashbaord](https://github.com/shreyas-jk/Baby-Action-Detection-Safety-System-Prototype/blob/main/streamlit/sample/screenshot1.PNG)
 
 ## Table of Contents
 
