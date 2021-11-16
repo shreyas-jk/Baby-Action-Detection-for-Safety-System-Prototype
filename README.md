@@ -63,6 +63,5 @@ Run the application
 ```
 streamlit run .\app.py
 ```
-
-## YouTube Demo
+YouTube demo for the application:
 https://www.youtube.com/watch?v=ZIDhvSGXDmI
