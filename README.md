@@ -61,7 +61,7 @@ cd streamlit
 
 Run the application
 ```
-streamlit run .\app.p
+streamlit run .\app.py
 ```
 
 ## YouTube Demo
