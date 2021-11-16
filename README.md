@@ -44,7 +44,7 @@ python prediction.py
 
 # Results
 
-[Full Demo - Drive Link](https://drive.google.com/file/d/1UVHSB52D4vHVGYDwj5aVH-poR0Tgc7jX/view?usp=sharing)
+[Downloaded Videos - Drive Link](https://drive.google.com/file/d/1UVHSB52D4vHVGYDwj5aVH-poR0Tgc7jX/view?usp=sharing)
 
 ![GIF](https://github.com/shreyas-jk/Baby-Action-Detection_Safety-System-Prototype/blob/main/demo/1.gif?raw=true)
 
@@ -53,5 +53,16 @@ python prediction.py
 ![GIF](https://github.com/shreyas-jk/Baby-Action-Detection_Safety-System-Prototype/blob/main/demo/3.gif?raw=true)
 
 
-# YouTube Demo
+# Deployable App using Streamlit
+Navigate to streamlit directory inside root project
+```
+cd streamlit
+```
+
+Run the application
+```
+streamlit run .\app.p
+```
+
+## YouTube Demo
 https://www.youtube.com/watch?v=ZIDhvSGXDmI
